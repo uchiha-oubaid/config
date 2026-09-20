@@ -1,0 +1,25 @@
+
+;; ----- smex-history -----
+(
+ compile
+ align-entire
+ align
+ rename-file
+ make-empty-file
+ make-directory
+ evil-next-buffer
+)
+
+;; ----- smex-data -----
+(
+ (compile . 36)
+ (customize-variable . 3)
+ (kill-compilation . 1)
+ (make-directory . 3)
+ (toggle-word-wrap . 6)
+ (evil-next-buffer . 8)
+ (make-empty-file . 1)
+ (rename-file . 1)
+ (align . 2)
+ (align-entire . 1)
+)

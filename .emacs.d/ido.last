@@ -1,0 +1,63 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/oubaid/odin-lang/vendor/" . "raylib/")
+ ("/home/oubaid/odin-lang/" . "vendor/")
+ ("/home/oubaid/" . "odin-lang/")
+ ("/home/oubaid/code/" . "test/")
+ ("/home/oubaid/code/me/" . "texte/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/oubaid/code/me/texte/"
+ "/home/oubaid/"
+ "/home/oubaid/odin-lang/vendor/raylib/"
+ "/home/oubaid/code/me/parse/"
+ "/home/oubaid/.emacs.local/"
+ "/home/oubaid/code/me/json/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config.ini"
+ "main.odin"
+ ".emacs"
+ "raylib.odin"
+ "parse.odin"
+ "odin-mode.el"
+ "xml.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/oubaid/code/ded/" (27310 49672 856193 430000) "src/" ".github/" ".gitignore" "CONTRIBUTING.md" "ded" "build_msvc.bat" ".git/" "shaders/" "./" "fonts/" "README.md" "build.sh" "../" "LICENSE" "setup_dependencies.bat" "build_msys2_mingw64.sh")
+
+ ("/home/oubaid/code/ded/src/" (27310 49830 348456 835000) "main.c" "la.h" "free_glyph.h" "editor.c" "simple_renderer.h" "common.h" "lexer.c" "file_browser.c" "free_glyph.c" "arena.h" "minirent.h" "file_browser.h" "./" "../" "la.c" "editor.h" "lexer.h" "common.c" "simple_renderer.c" "sv.h")
+
+ ("/home/oubaid/code/" (27310 49447 527767 455000) "PiMuse/" "musializer/" "jai/" "ded/" "raylib/" "aseprite/" "./" "../" "gf/" "tatr/" "me/")
+
+ ("/home/oubaid/" (27310 47137 893648 611000) "Desktop/" "godot/" ".sane/" ".java/" ".zcompdump-odebian-5.9.zwc" ".steam/" ".zsh_history" ".ICEauthority" ".emacs" "odin-lang/" ".sudo_as_admin_successful" "Music/" ".viminfo" "Documents/" ".face" "Notebooks/" "Downloads/" ".oh-my-zsh/" ".gnupg/" ".shell.pre-oh-my-zsh" "Videos/" ".config/" ".xsession-errors.old" ".var/" ".emacs.custom.el" "Public/" ".wine/" ".vim/" ".histfile" ".pki/" ".profile" ".local/" ".emacs.rc/" ".Xauthority" ".bash_history" "./" ".zshrc" ".python_history" "../" "GNUstep/" ".vimrc" "Templates/" ".dmrc" ".ssh/" ".xsession-errors" ".emacs.local/" "code/" ".steampid" ".zcompdump-odebian-5.9" ".face.icon" ".steampath" ".bash_logout" ".tmux" ".emacs.d/" ".mozilla/" ".bashrc" ".wget-hsts" ".cache/" ".zcompdump" "Pictures/" ".zshrc.pre-oh-my-zsh" ".gitconfig")
+
+ ("/home/oubaid/code/me/texte/" (27309 14658 983638 901000) "#config.txt#" "config.ini" "./" "fonts/" "../" ".#config.ini" "main.odin" "#config.ini#")
+
+ ("/home/oubaid/odin-lang/vendor/raylib/" (27308 19686 412139 984000) "easings.odin" "linux/" "windows/" "linux-arm64/" "wasm/" "./" "macos/" "README.md" "../" "rlgl/" "LICENSE" "raylib.odin" "raygui.odin" "raymath.odin")
+
+ ("/home/oubaid/odin-lang/vendor/" (27286 42056 0 0) "portmidi/" "miniaudio/" "sdl2/" "glfw/" "curl/" "directx/" "zlib/" ".gitkeep" "OpenGL/" "windows/" "raylib/" "libc-shim/" "box3d/" "sdl3/" "wasm/" "libc/" "ENet/" "darwin/" "./" "compress/" "kb_text_shape/" "nanovg/" "ggpo/" "README.md" "lua/" "../" "stb/" "wgpu/" "egl/" "fontstash/" "OpenEXRCore/" "vulkan/" "x11/" "microui/" "box2d/" "commonmark/" "cgltf/")
+
+ ("/home/oubaid/odin-lang/" (27304 21378 70251 928000) "examples/" "core/" "./" "../" "LICENSE" "base/" "shared/" "odin" "vendor/")
+
+ ("/home/oubaid/code/me/" (27308 17628 273051 697000) "texte/" "./" "../" "parse/")
+
+ ("/home/oubaid/code/me/parse/" (27304 23070 488448 73000) "file.json" "./" "../" "parse.odin")
+
+ ("/home/" (27271 11077 35455 391000) "./" "../" "oubaid/")
+
+ ("/home/oubaid/.emacs.local/" (27301 39582 236964 214000) "simpc-mode.el" "./" "../" "odin-mode.el")
+
+ ("/home/oubaid/code/me/json/" (27302 31034 199444 421000) "xml" ".tscn" "Dungeon_Tileset.png" "test_map.xml" "./" "../" "xml.c" "parse.odin")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
