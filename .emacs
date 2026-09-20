@@ -1,10 +1,7 @@
-;; added a comment
-;; for me it's something else
-
 (package-initialize)
 (setq custom-file "~/.emacs.custom.el")
 
-(add-to-list 'default-frame-alist `(font . "JetBrainsMonoNL Nerd Font"))
+(add-to-list 'default-frame-alist `(font . "JetBrainsMonoNL Nerd Font-18"))
 (tool-bar-mode 0)
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
@@ -55,9 +52,12 @@
 (define-key evil-normal-state-map (kbd "C-u") 'evil-scroll-up)
 (define-key evil-visual-state-map (kbd "C-u") 'evil-scroll-up)
 (define-key evil-insert-state-map (kbd "C-v") 'clipboard-yank)
+(global-set-key (kbd "C-s") 'save-buffer)
+(global-set-key (kbd "C-x C-s") 'isearch-forward)
 
 ;;Also bind it in the motion state map (used by some special modes like Dired or Help)
 (define-key evil-motion-state-map (kbd "C-u") 'evil-scroll-up)
+(global-set-key (kbd "²") 'evil-normal-state)
 
 ;; Ido
 (global-set-key (kbd "C-c p") 'ido-find-file)
